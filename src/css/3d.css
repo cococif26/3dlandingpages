@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700&family=Poppins:wght@400;500;600;700;800;900&family=Tienne:wght@400;700&display=swap');
+.aloha-text{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tienne', serif;
+}
+.navi-text{
+    font-family: 'Open Sans', sans-serif;
+}
+.BG{
+    background: url('../assets/bg/aloha2.png');
+    background-size: cover;
+    height: 100vh;
+}
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+}
+.intro .text-intro{
+    margin-top: 35px;
+}
+.intro .paragraf{
+    font-family: 'Open Sans', sans-serif;
+}
+.best{
+    background-color: #ffe9f7;
+    height: auto;
+}
+.develop{
+    background-color: #ffe9f7;
+    height: auto;
+}
